@@ -17,7 +17,7 @@ La aplicación se conecta a una **base de datos SQL Server**, utilizando **Entit
   - Crear, leer, actualizar y eliminar bodegas.
 - Gestión de **Productos**
   - Crear, leer, actualizar y eliminar productos.
-  - Configuración de estado (`Activo`/`Inactivo`) y parámetros como **IVA** y **PVP**.
+  - Configuración de estado (`Stock`/`Agotado`) y parámetros como **IVA** y **PVP**.
 - Gestión de **Usuarios**
   - Inicio de sesión mediante usuario y contraseña.
   - Control de acceso a la aplicación.
